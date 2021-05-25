@@ -1,0 +1,57 @@
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.exe.config
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.exe
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.pdb
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.Form1.resources
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.exe
+D:\Koch\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.pdb
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.exe.config
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.exe
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.pdb
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.exe
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\bin\Debug\Hra.pdb
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.Form1.resources
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+F:\Karel\C# - OkA\15. hodina\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
+D:\CSharp\Projekt\Hra\Hra\bin\Debug\Hra.exe.config
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.exe
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.pdb
+D:\CSharp\Projekt\Hra\Hra\bin\Debug\Hra.exe
+D:\CSharp\Projekt\Hra\Hra\bin\Debug\Hra.pdb
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.Form1.resources
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe.config
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.pdb
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Form1.resources
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.exe
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.pdb
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe.config
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.exe
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.pdb
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.pdb
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Form1.resources
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+D:\Koch\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
+D:\CSharp\Projekt\Hra\Hra\obj\Debug\Hra.Form2.resources
+E:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Form2.resources
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe.config
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.exe
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.pdb
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.exe
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\bin\Debug\Hra.pdb
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csprojResolveAssemblyReference.cache
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Form1.resources
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Form2.resources
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.Properties.Resources.resources
+F:\Karel\C# - OkA\15. hodina\Projekt\Hra\Hra\obj\Debug\Hra.csproj.GenerateResource.Cache
